@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+	<addon id="repository.eStiloSystems" name="[COLOR cyan]eStilo[/COLOR][COLOR red]Systems[/COLOR] Repo" version="1.0" provider-name="eStilo">
+	<extension point="xbmc.addon.repository" name="eStiloSystems Repo">
+		<dir>
+			<info compressed="false">https://github.com/eStiloSystems/eStiloTV/addons.xml</info>
+			<checksum>https://github.com/eStiloSystems/eStiloTV/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/eStiloSystems/eStiloTV</datadir>
+		</dir>
+	</extension>
+		<extension point="xbmc.addon.metadata">
+		<summary lang="en">[B][COLOR cyan]eStilo[/COLOR][COLOR red]Systems[/COLOR][/B] - We do not host any of the contents streamed</summary>
+		<description lang="en">[B][COLOR cyan]eStilo[/COLOR][COLOR red]Systems[/COLOR][/B] - This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.The author does not host any of the content in this addon and takes no responsibility for content found.</description>
+		<disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en"></summary>
+		<description lang="en"></description>
+		<genre></genre>
+	</extension>
+</addon>
